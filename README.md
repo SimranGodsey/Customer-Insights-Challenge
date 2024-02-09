@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://www.steeldata.org.uk/sql3.jpg">
 
-View the case study [HERE](https://www.steeldata.org.uk/sql3.html)
+View the case study [HERE](https://mattsteel87.wixsite.com/datacoach/esports-tournament-copy)
 
 
 ## Table Of Contents
